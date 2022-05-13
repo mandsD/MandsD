@@ -1,4 +1,4 @@
-## Hii, I´m Amanda!
+## Hii, My name is Amanda!
 
 - 📚 I’m currently studying programming
 - ✨ Pronouns: she/her
