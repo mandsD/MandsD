@@ -1,7 +1,6 @@
 ## Hii, My name is Amanda!
 
 - 📚 I’m currently studying programming
-- ✨ Pronouns: she/her
 
 <div align="center">
   <a href="https://github.com/mandsd">
