@@ -4,8 +4,8 @@
 - ✨ Pronouns: she/her
 
 <div align="center">
-  <a href="https://github.com/mandsD">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mandsD&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/mandsd">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mandsd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
   
   <div style="display: inline_block"><br>
@@ -19,4 +19,4 @@
   <a href = "mailto:amandafd@outlook.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
 </div>
 
-   ![Snake animation](https://github.com/mandsD/mandsD/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/mandsd/mandsd/blob/output/github-contribution-grid-snake.svg)
