@@ -1,6 +1,6 @@
 ## Hii, My name is Amanda!
 
-- 📚 I’m currently studying programming
+- I’m currently studying programming
 
   
   <div style="display: inline_block"><br>
