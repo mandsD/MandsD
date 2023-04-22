@@ -1,4 +1,4 @@
-## Hii, My name is Amanda!
+## Hi, My name is Amanda!
 
 - I’m currently studying programming
 
