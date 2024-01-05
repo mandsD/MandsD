@@ -5,7 +5,7 @@
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Mands-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Mands-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Mands-Csharp" height="30" width="40" src="https://github.com/mandsd/mandsd/assets/105010000/4d99f045-0ded-43dc-a894-d0b5f14e76f5">
 </div>
   
   ##
