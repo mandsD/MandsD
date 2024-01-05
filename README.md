@@ -6,7 +6,7 @@
   <div style="display: inline_block"><br>
   <img align="center" alt="Mands-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Mands-Csharp" height="30" width="40" src="https://github.com/mandsd/mandsd/assets/105010000/4d99f045-0ded-43dc-a894-d0b5f14e76f5">
-  <img align="center" alt="Mands-Csharp" height="30" width="40" src="https://github.com/mandsd/mandsd/assets/105010000/68bbcf87-0780-429b-91a8-9fde55f49b79">
+  <img align="center" alt="Mands-Csharp" height="30" width="40" src="https://github.com/mandsd/mandsd/assets/105010000/a10f438f-602e-475e-a8ac-8b0a9751c9c9">
 </div>
   
   ##
