@@ -7,7 +7,7 @@
   <img align="center" alt="Mands-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Mands-Csharp" height="30" width="40" src="https://github.com/mandsd/mandsd/assets/105010000/4d99f045-0ded-43dc-a894-d0b5f14e76f5">
   <img align="center" alt="Mands-SAS" height="30" width="40" src="https://github.com/mandsd/mandsd/assets/105010000/f768783a-b80d-4f4c-afba-5885cde7e86d">
-  <img align="center" alt="Mands-Sql" height="30" width="40" src="https://github.com/mandsd/mandsd/assets/105010000/8d4ad773-9dd8-4647-8cc9-c9b266100e1f">
+  <img align="center" alt="Mands-Sql" height="30" width="40" src="https://github.com/mandsd/mandsd/assets/105010000/7a3a94d5-3b97-43ee-b156-6425fd4bd4b0">
 </div>
   
   ##
