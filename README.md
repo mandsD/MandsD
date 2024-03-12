@@ -22,18 +22,7 @@
 <br>
 </p>
 
-
-## <img src="https://github.com/mandsd/mandsd/assets/105010000/3743503f-1830-4a9f-83be-2b784abdd657" width="35"><b> Github Stats </b>
-<br>
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mands&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-	
-</a>
-</div>
-
-
+https://github.com/mandsd/mandsd/assets/105010000/3743503f-1830-4a9f-83be-2b784abdd657
 
 -----
 
