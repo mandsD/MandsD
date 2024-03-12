@@ -9,6 +9,7 @@
 
 <br>
 
+<picture> <img align="right" src="https://github.com/mandsd/mandsd/assets/105010000/3743503f-1830-4a9f-83be-2b784abdd657" width = 400px></picture>
 
 
 <p align="center">
@@ -21,8 +22,6 @@
 
 <br>
 </p>
-
-https://github.com/mandsd/mandsd/assets/105010000/3743503f-1830-4a9f-83be-2b784abdd657
 
 -----
 
