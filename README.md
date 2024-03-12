@@ -9,7 +9,7 @@
 
 <br>
 
-## <img src="https://yourreactiongifs.tumblr.com/post/74078640136" width ="25"><b> Skills</b>
+
 
 <p align="center">
 
@@ -23,7 +23,7 @@
 </p>
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+## <img src="https://github.com/mandsd/mandsd/assets/105010000/3743503f-1830-4a9f-83be-2b784abdd657" width="35"><b> Github Stats </b>
 <br>
 
 <div align="center">
