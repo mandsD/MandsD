@@ -3,7 +3,7 @@
 </p>
 
 
-- 💻 I’m currently studying programing
+- 🎓 Studying Computer Science at IDP, Federal District , Brazil
 - 📚 I’m currently learning Java
 - 📞 Open for project collaboration and internship opportunities
 
