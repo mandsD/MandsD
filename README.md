@@ -8,8 +8,10 @@
 - 📞 Open for project collaboration and internship opportunities
 
 <br>
+![smiling-cat-cat](https://github.com/mandsd/mandsd/assets/105010000/f5d02649-6463-4424-90df-d4dd43a013ad)
 
-<picture> <img align="right" src="https://github.com/mandsd/mandsd/assets/105010000/3743503f-1830-4a9f-83be-2b784abdd657" width = 400px></picture>
+
+<picture> <img align="right" src="https://github.com/mandsd/mandsd/assets/105010000/ad4c1457-fcac-4d41-939f-3bcc93707328" width = 400px></picture>
 
 
 <p align="center">
