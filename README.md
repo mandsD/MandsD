@@ -3,7 +3,7 @@
 </p>
 
 
-- 🎓 Studying Data Science and AI at Iesb, Federal District , Brazil
+- 🎓 Studying Computer Science at Iesb, Federal District , Brazil
 - 📚 I’m currently learning Java
 - 📞 Open for project collaboration and internship opportunities
 
