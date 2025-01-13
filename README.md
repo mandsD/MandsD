@@ -19,6 +19,13 @@
     
      <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
      <img height="40" width="40" src="https://github.com/mandsd/mandsd/assets/105010000/4d99f045-0ded-43dc-a894-d0b5f14e76f5">
+     <img align="center" alt="Java" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
+     <img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
+     <img align="center" alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
+     <img align="center" img alt="MySQL" height="70" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+     <img align="center" alt="Linux" height="50" width="50" src="https://icongr.am/devicon/linux-original.svg?size=128&color=currentColor">
+     <img align="center" alt="Java Script" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+ 
 
 <br>
 </p>
